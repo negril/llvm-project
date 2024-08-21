@@ -9,6 +9,8 @@
 #ifndef LLDB_UTILITY_ADDRESSABLEBITS_H
 #define LLDB_UTILITY_ADDRESSABLEBITS_H
 
+#include <cstdint>
+
 #include "lldb/lldb-forward.h"
 
 namespace lldb_private {
